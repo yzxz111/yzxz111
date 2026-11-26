@@ -4,7 +4,7 @@
 
 <br/>
 
-**[交互式技术简历主页 (yzxz111.github.io)](https://yzxz111.github.io)** · **[2166136579@qq.com](mailto:2166136579@qq.com)** · **求职意向：Agent 工程师 / AI 开发实习 / AI 安全研发**
+**[交互式技术简历主页 (yzxz111.github.io)](https://yzxz111.github.io)** · **[2166136579@qq.com](mailto:2166136579@qq.com)** · **求职意向：Agent 工程师 / AI 开发实习**
 
 <br/>
 
@@ -21,11 +21,11 @@
 
 ### 工程方向与聚焦
 
-湖南警察学院信息安全专业 2023 级本科生（2027 届，可随时全职到岗）。相比单纯调用 Prompt 或拼装单层 Demo，我更关注 **“网关底座稳定性 → Agent 编排与可观测 → 客户端安全边界”** 的三层协作：
+湖南警察学院信息安全专业 2023 级本科生（2027 届，可随时全职到岗）。相比单纯调用 Prompt 或拼装单层 Demo，我更关注 **“网关底座稳定性 → Agent 编排与可观测 → 桌面工作台体验”** 的三层协作：
 
 - **网关与流式治理**：在 Spring Boot WebFlux 中落地 `FirstChunkGate` 首帧门闸与 SSE 心跳保活，处理 UTF-8 跨块解码、准入 429 有限退避防重复计费，并修复 Redis Lua 共享并发集合 `PTTL` 缩短缺陷。
-- **Agent 编排与安全 RAG**：使用 LangGraph 构建异常取证、相关性评估与人工确认（HITL）中断恢复状态机；结合 BM25 + Qdrant RRF 输出 Citation 溯源，通过只读 FastMCP 工具封装防路径穿越校验与敏感脱敏压缩。
-- **桌面端沙箱隔离**：Electron 启用上下文隔离与沙箱并禁用渲染进程 Node.js，受限 `preload / IPC` 代理网络通信，API Key 仅驻留运行内存不落盘，Markdown 经 DOMPurify 净化渲染。
+- **Agent 编排与混合 RAG**：使用 LangGraph 构建异常取证、相关性评估与人工确认（HITL）中断恢复状态机；结合 BM25 + Qdrant RRF 输出 Citation 溯源，通过只读 FastMCP 工具封装防路径穿越校验与堆栈脱敏压缩。
+- **桌面工作台隔离与交互**：Electron 启用上下文隔离与沙箱并禁用渲染进程 Node.js，受限 `preload / IPC` 代理网络通信，API Key 仅驻留运行内存不落盘，Markdown 经 DOMPurify 净化渲染。
 
 ---
 
