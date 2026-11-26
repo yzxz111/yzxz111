@@ -31,7 +31,7 @@
 
   <!-- Left Identity Block -->
   <text x="28" y="78" fill="#f0f6fc" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="26" font-weight="700">陈炜 · Chen Wei</text>
-  <text x="28" y="105" fill="#38bdf8" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="600">Agent 工程师 / AI 应用开发 / AI 安全工程</text>
+  <text x="28" y="105" fill="#38bdf8" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="600">Agent 工程师 / AI 应用开发 / LLM Infra</text>
   <text x="28" y="131" fill="#8b949e" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12.5">湖南警察学院 · 信息安全 · 2023 - 2027 届</text>
 
   <!-- Focus Pills -->
